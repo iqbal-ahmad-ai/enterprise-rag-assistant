@@ -1,4 +1,4 @@
-# Enterprise RAG Assistant 🚀
+# Enterprise RAG Assistant 
 
 An enterprise-grade Retrieval-Augmented Generation (RAG) system that enables users to interact with organizational knowledge bases using Large Language Models (LLMs).
 
